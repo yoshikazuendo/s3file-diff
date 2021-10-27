@@ -1,0 +1,16 @@
+{
+    "src": {
+        "bucketName": "backetName",
+        "s3Directories": [
+            "s3Directories",
+            "s3Directories"
+        ]
+    },
+    "dst": {
+        "bucketName": "backetName",
+        "s3Directories": [
+            "s3Directories",
+            "s3Directories"
+        ]
+    }
+}
